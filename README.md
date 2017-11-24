@@ -1,6 +1,9 @@
 # i3wm-Ashes-Dark
 My Ashes Dark theme i3wm with Ubuntu
 
+![alt text](https://raw.githubusercontent.com/gamesmessiah/i3wm-Ashes-Dark/master/background.jpg)
+
+
 <h3>Basic requirements (for the script)</h3>
 <p>
 <ul>
