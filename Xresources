@@ -9,6 +9,12 @@
 
 ! === rofi ===
 
+rofi.modi:                           ssh,window,drun,run
+rofi.sidebar-mode:                   true
+rofi.terminal:                       termite
+rofi.ssh-client:                     ssh
+rofi.ssh-command:                    {terminal} -e "{ssh-client} {host}"
+
 rofi.color-enabled: true
 rofi.color-normal:                   argb:00232F39, #E3E9E8, argb:00232F39, argb:FF6DC6E4, argb:FF232F39
 rofi.color-urgent:                   argb:00232F39, #5FABD9, #232F39, #5FABD9, #E3E9E8
